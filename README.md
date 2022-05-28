@@ -2,7 +2,7 @@
 ## Realtime Chat App Using Socket.io Library, ReactJS, NodeJS, and ExpressJS
 
 
-![Join a room](https://i.imgur.com/225Caem.png) "Join a Chat Room!")
+![Join a room](https://i.imgur.com/225Caem.png "Join a Chat Room!")
 
 
 
